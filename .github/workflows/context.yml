@@ -4,7 +4,7 @@ name: CI
 on: push
 
 jobs:
-  one:ㄴ
+  one:
     runs-on: ubuntu-latest
     steps:
       - name: Dump GitHub context
